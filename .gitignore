@@ -1,4 +1,7 @@
 #maven
 target/*
 #java
-.settings/*
+.settings/* 
+.classpath
+myapp.log
+.project
