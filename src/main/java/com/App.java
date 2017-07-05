@@ -39,7 +39,7 @@ public class App extends SpringBootServletInitializer {
 	 *//*
 	 @Bean
      public ServletRegistrationBean MyServlet1(){
-               return new ServletRegistrationBean(new DemoServlet(),"/demoServlet/*");
+              return new ServletRegistrationBean(new DemoServlet(),"/demoServlet/*");
      }*/
 	/**
 	 * 
